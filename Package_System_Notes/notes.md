@@ -8,3 +8,7 @@ from Arch Linux.
 
 __
 
+Revisit db after finishing all other packages. Will use the arch repository PKGBUILD for the meantime.
+
+--
+
