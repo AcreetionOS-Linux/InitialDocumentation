@@ -13,6 +13,9 @@ Once somebody has established the pattern of committing to the project with suff
 ## Something that must be understood
 We are not watching the Discord 24/7. We are usually working on something. We will do the best we can to reach out to you when we can. Anything contributed to AcreetionOS on GitHub MUST be Open-Source. If anything is not, it will be rejected. If you want to talk about proprietary implemenetation of anything, reach out to us on Discord and we will have a discussion about if it is possible to implement.
 
+## Want something added to the wiki?
+If you want something added to the Wiki, we first ask you to go to [The AcreetionOS Wiki]("https://darrengames.ddns.net:2500/index.php?title=Main_Page"), make and account and commit something if you know how. If you do not know how, or have a hard time with the interface, contribute to the [UserDocumentation folder]("https://github.com/AcreetionOS-Linux/InitialDocumentation/tree/main/UserDocumentation") found here, and we will update the wiki at our earliest chance we get.
+
 ## Contact
 
 For questions, suggestions, or support open an issue on [Github]("https://github.com/AcreetionOS-Linux") or our email, [acreetionos@gmail.com]("mailto:acreetionos@gmail.com")x. 
