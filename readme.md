@@ -1,50 +1,20 @@
-# AcreetionOS Linux Initial Documentation
+# AcreetionOS Linux First Steps Documentation
 
-Welcome to AcreetionOS Linux's Initial Documentation Repo, a place to put everything in regards to developing AcreetionOS Linux.
+Are you wanting to help develop AcreetionOS? If so, keep reading! If not, check out our website at [acreetionos.online]("https://acreetionos.online") for a user-accessible easy-to-install image. If you need to know how to put it on your thumb drive, head over to [YouTube]("https://www.youtube.com/@AcreetionOS") for instructional content, or to know what we are working on in terms of AcreetionOS.
 
-## Project Overview
+If you aren't quite ready to develop AcreetionOS, join us over at [Discord]("https://discord.gg/pQN7ZBFwzP") so yo know what is going on with the project! We tend to respond quickly there!
 
-AcreetionOS Linux is a community-driven effort to build a lightweight, versatile Linux distribution that is easy to use, and ready for the masses on a community level, as well as a commercial interest. AcreetionOS Linux is currently based on Arch Linux, but the future goals are to be a parallel* distribution with our own base, code, and ideas. Our goal is to provide a solid foundation for both everyday users and developers, with a focus on simplicity, ease of use, and stability; all while keeping packages up to date and safe.
+## Contributing to AcreetionOS
 
-## Features
+If you want to commit to AcreetionOS, we ask you do a couple of things. First, make sure you are in the [Discord]("https://discord.gg/pQN7ZBFwzP") for when we make changes. Next, go to [The AcreetionOS Community Page]("https://darrengames.ddns.net:2000/AcreetionOSCommunityEditions.html") and you will find GitHub Repos/Source links you can go too. You will then fork off the project and [Johnathan]("https://github.com/Sprunglesonthehub?tab=repositories") or [Darren]("https://github.com/cobra3282000/") will accept the pull request, if it is up to standards. If it is not, we will reach out to you either within the Issue, or Discord if you have your DMs open. From there we will build a communication path and build from there.
 
-- Lightweight base system
-- Standardized Package Selection
-- User-friendly installation process
-- x86_64 friendly.
+Once somebody has established the pattern of committing to the project with sufficient commits, then we may reach out in private about different roles within the project.
 
-## Getting Started
-
-To get started with AcreetionOS Linux, you can:
-
-1. Download the latest ISO from our [Website]("https://acreetionos-linux.github.io/")!
-2. Create a bootable USB drive using tools like [Etcher]("https://etcher.balena.io/#download-etcher"), [Rufus]("https://rufus.ie/en/"), or [Ventoy]("https://ventoy.net/en/index.html").
-3. Boot from the USB drive and follow the installation instructions
-
-*     Ventoy MUST use GRUB MODE*
-## Contributing
-
-We welcome contributions from the community! Please see our [Contributing Guide]("https://github.com/AcreetionOS/AcreetionOSDocumentationPlan/blob/main/documentation/contributor-guide.md") file for guidelines on how to get involved.
-
-## Roadmap
-
-Our current goal is to release a stable distribution by the end of 2026. Check out our [project road map]("https://darrengames.ddns.net:30008/cobra3282000/AcreetionOS/projects/2") for more details on upcoming features and milestones.
-
-## Project Information
-
-- **Project Status:** In active development
-- **License:** GPL 3.0/MIT
-- **Maintainers:** Darren Clift (@cobra3282000), Johnathan Spiva (@sprunglesongithub) or (@Sprungles), Liv
-- **Contributors:** @Jajunk, Ddubs, Seeker, Benji, ArchPenguin
-
+## Something that must be understood
+We are not watching the Discord 24/7. We are usually working on something. We will do the best we can to reach out to you when we can. Anything contributed to AcreetionOS on GitHub MUST be Open-Source. If anything is not, it will be rejected. If you want to talk about proprietary implemenetation of anything, reach out to us on Discord and we will have a discussion about if it is possible to implement.
 
 ## Contact
 
-For questions, suggestions, or support open an issue on [Github]("https://github.com/AcreetionOS-Linux"). 
+For questions, suggestions, or support open an issue on [Github]("https://github.com/AcreetionOS-Linux") or our email, [acreetionos@gmail.com]("mailto:acreetionos@gmail.com")x. 
 
-Thank you for your interest in AcreetionOS Linux!
-
-
-## Definitions:
-
-*Parallel Distribution: A distribution similar to, but having a different goal and future goal set.
+Thank you for your interest in AcreetionOS Linux, we appreaciate all of you!
